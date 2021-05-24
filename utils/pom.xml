@@ -6,11 +6,11 @@
 
     <parent>
         <artifactId>builders-new</artifactId>
-        <groupId>com.epam</groupId>
-        <version>2.0</version>
+        <groupId>com.builders</groupId>
+        <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.epam</groupId>
+    <groupId>com.builders</groupId>
     <artifactId>utils</artifactId>
 
 </project>
